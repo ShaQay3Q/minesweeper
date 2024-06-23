@@ -10,8 +10,4 @@ interface cell {
 //     clue: Number;
 // }
 
-type gridCell = 
-
-interface grid {
-
-}
+type gridCell = cell[];
